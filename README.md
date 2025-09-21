@@ -1,6 +1,6 @@
 # Mi Biblioteca
 
-Project 3 TripleTen
+Third project of TripleTen University
 
 The website was created using the following HTML, CSS, GIT/GITHUB topics:
 
